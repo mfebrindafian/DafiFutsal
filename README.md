@@ -10,7 +10,8 @@ Aplikasi Sederhana Pengelolaan Penyewaan Lapangan Futsal dan Member Futsal. Demo
 <ol>
 <li>Jalankan phpMyAdmin dan Akses http://localhost/phpmyadmin/</li>
    <li>Buat database baru dengan nama dbfutsal</li>
-   <li>Import struktur database a href=""> disini</a>
+   <li>Import struktur database <a href="https://raw.githubusercontent.com/mfebrindafian/DafiFutsal/master/dbfutsal.sql">unduh disini</a>
+    <li>Jalankan Aplikasi</li>
 </li>
 </ol>
 
