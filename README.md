@@ -1,4 +1,4 @@
 # DafiFutsal
 Aplikasi Sederhana Pengelolaan Penyewaan dan Member Futsal
 
-<hr>
+<hr style="border-width: 1px;">
